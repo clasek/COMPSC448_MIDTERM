@@ -1,0 +1,4 @@
+input_type,classifier,accuracy,macro_f1
+output_only,TF-IDF + logistic regression,0.6333333333333333,0.6007597340930674
+input_only,TF-IDF + logistic regression,0.3333333333333333,0.16666666666666666
+input_output,TF-IDF + logistic regression,0.5666666666666667,0.528395061728395
