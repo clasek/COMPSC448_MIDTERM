@@ -83,9 +83,8 @@ COMPSC448_MIDTERM/
 │   ├── baseline_metrics.csv
 │   ├── cnn_metrics.csv
 │   └── rnn_metrics.csv
-├── models/
 └── report/
-    └── project_report.pdf
+    └── MIDTERM REPORT.pdf
 ```
 
 ## Installation
