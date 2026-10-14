@@ -1,0 +1,4 @@
+input_type,classifier,accuracy,macro_f1
+output_only,Text CNN,0.6333333333333333,0.611111111111111
+input_only,Text CNN,0.3333333333333333,0.24019607843137256
+input_output,Text CNN,0.6,0.5925925925925926
